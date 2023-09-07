@@ -1,0 +1,106 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: sans-serif;
+}
+.container{
+	width: 1140px;
+	margin: 0px auto;
+
+}
+.row{
+	width: 100%;
+	float: left;
+}
+.col-lg-3{
+	width: 25%;
+	float: left;
+}
+.col-lg-12{
+	width: 100%;
+	float: left;
+}
+.header{
+	width: 100%;
+	float: left;
+	height: 120px;
+	background: gray;
+}
+.slider{
+	width: 100%;
+	float: left;
+	height: 450px;
+	background: lightblue;
+	
+}
+.banner{
+	width: 100%;
+	float: left;
+}
+.box-1{
+	width: 25%;
+	height: 400px;
+	float: left;
+	background: antiquewhite;
+	padding-left: 10px;
+}
+img{
+	width: 100%;
+	margin: 20px 14px;
+
+}
+.box-2{
+	width: 72%;
+	height: 400px;
+	float: left;
+	background:antiquewhite;
+	padding-left: 19px;
+	padding-right: 5px;
+}
+
+h3{
+	text-align: center;
+	font-size: 40px;
+	line-height: 40px;
+	color: red;
+	font-weight: 600px;
+	margin: 20px;
+}
+p{
+	font-size: 20px;
+	text-align: justify;
+}
+
+.banner{
+	width: 100%;
+	float: left;
+}
+.cl1{
+	float: left;
+	height: 350px;
+	background: red;
+}
+.cl2{
+	float: left;
+	height: 350px;
+	background: blue;
+}
+.cl3{
+	float: left;
+	height: 350px;
+	background: lightblue;
+}
+.cl4{
+	float: left;
+	height: 350px;
+	background: darkblue;
+}
+
+.footer{
+	width: 100%;
+	float: left;
+	height: 70px;
+	background: gray;
+}
